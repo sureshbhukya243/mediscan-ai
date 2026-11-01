@@ -1,0 +1,10 @@
+{
+  "name": "MediScan AI - Medical Report Scanner & Medicine Schedule Assistant",
+  "description": "AI-powered prescription & medical report scanner that extracts medication details, builds smart daily schedules, sets reminders, and provides clinical safety guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
